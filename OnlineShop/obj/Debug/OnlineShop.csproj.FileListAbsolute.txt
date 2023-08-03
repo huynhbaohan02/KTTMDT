@@ -1,0 +1,168 @@
+C:\Users\Ngo Van Vinh\source\repos\OnlineShop\OnlineShop\bin\OnlineShop.dll.config
+C:\Users\Ngo Van Vinh\source\repos\OnlineShop\OnlineShop\bin\OnlineShop.dll
+C:\Users\Ngo Van Vinh\source\repos\OnlineShop\OnlineShop\bin\OnlineShop.pdb
+C:\Users\Ngo Van Vinh\source\repos\OnlineShop\OnlineShop\bin\roslyn\csc.exe
+C:\Users\Ngo Van Vinh\source\repos\OnlineShop\OnlineShop\bin\roslyn\csc.exe.config
+C:\Users\Ngo Van Vinh\source\repos\OnlineShop\OnlineShop\bin\roslyn\csc.rsp
+C:\Users\Ngo Van Vinh\source\repos\OnlineShop\OnlineShop\bin\roslyn\csi.exe
+C:\Users\Ngo Van Vinh\source\repos\OnlineShop\OnlineShop\bin\roslyn\csi.exe.config
+C:\Users\Ngo Van Vinh\source\repos\OnlineShop\OnlineShop\bin\roslyn\csi.rsp
+C:\Users\Ngo Van Vinh\source\repos\OnlineShop\OnlineShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ngo Van Vinh\source\repos\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ngo Van Vinh\source\repos\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ngo Van Vinh\source\repos\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ngo Van Vinh\source\repos\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ngo Van Vinh\source\repos\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ngo Van Vinh\source\repos\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ngo Van Vinh\source\repos\OnlineShop\OnlineShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ngo Van Vinh\source\repos\OnlineShop\OnlineShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ngo Van Vinh\source\repos\OnlineShop\OnlineShop\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ngo Van Vinh\source\repos\OnlineShop\OnlineShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ngo Van Vinh\source\repos\OnlineShop\OnlineShop\bin\roslyn\System.AppContext.dll
+C:\Users\Ngo Van Vinh\source\repos\OnlineShop\OnlineShop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ngo Van Vinh\source\repos\OnlineShop\OnlineShop\bin\roslyn\System.Console.dll
+C:\Users\Ngo Van Vinh\source\repos\OnlineShop\OnlineShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ngo Van Vinh\source\repos\OnlineShop\OnlineShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ngo Van Vinh\source\repos\OnlineShop\OnlineShop\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ngo Van Vinh\source\repos\OnlineShop\OnlineShop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ngo Van Vinh\source\repos\OnlineShop\OnlineShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ngo Van Vinh\source\repos\OnlineShop\OnlineShop\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Ngo Van Vinh\source\repos\OnlineShop\OnlineShop\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Ngo Van Vinh\source\repos\OnlineShop\OnlineShop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ngo Van Vinh\source\repos\OnlineShop\OnlineShop\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Ngo Van Vinh\source\repos\OnlineShop\OnlineShop\bin\roslyn\System.Security.Claims.dll
+C:\Users\Ngo Van Vinh\source\repos\OnlineShop\OnlineShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ngo Van Vinh\source\repos\OnlineShop\OnlineShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ngo Van Vinh\source\repos\OnlineShop\OnlineShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ngo Van Vinh\source\repos\OnlineShop\OnlineShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ngo Van Vinh\source\repos\OnlineShop\OnlineShop\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Ngo Van Vinh\source\repos\OnlineShop\OnlineShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ngo Van Vinh\source\repos\OnlineShop\OnlineShop\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ngo Van Vinh\source\repos\OnlineShop\OnlineShop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ngo Van Vinh\source\repos\OnlineShop\OnlineShop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ngo Van Vinh\source\repos\OnlineShop\OnlineShop\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ngo Van Vinh\source\repos\OnlineShop\OnlineShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ngo Van Vinh\source\repos\OnlineShop\OnlineShop\bin\roslyn\vbc.exe
+C:\Users\Ngo Van Vinh\source\repos\OnlineShop\OnlineShop\bin\roslyn\vbc.exe.config
+C:\Users\Ngo Van Vinh\source\repos\OnlineShop\OnlineShop\bin\roslyn\vbc.rsp
+C:\Users\Ngo Van Vinh\source\repos\OnlineShop\OnlineShop\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ngo Van Vinh\source\repos\OnlineShop\OnlineShop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ngo Van Vinh\source\repos\OnlineShop\OnlineShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ngo Van Vinh\source\repos\OnlineShop\OnlineShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ngo Van Vinh\source\repos\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csprojAssemblyReference.cache
+C:\Users\Ngo Van Vinh\source\repos\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csproj.CoreCompileInputs.cache
+C:\Users\Ngo Van Vinh\source\repos\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csproj.CopyComplete
+C:\Users\Ngo Van Vinh\source\repos\OnlineShop\OnlineShop\obj\Debug\OnlineShop.dll
+C:\Users\Ngo Van Vinh\source\repos\OnlineShop\OnlineShop\obj\Debug\OnlineShop.pdb
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\OnlineShop\bin\OnlineShop.dll.config
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\OnlineShop\bin\OnlineShop.dll
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\OnlineShop\bin\OnlineShop.pdb
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\OnlineShop\bin\roslyn\csc.exe
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\OnlineShop\bin\roslyn\csc.exe.config
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\OnlineShop\bin\roslyn\csc.rsp
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\OnlineShop\bin\roslyn\csi.exe
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\OnlineShop\bin\roslyn\csi.exe.config
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\OnlineShop\bin\roslyn\csi.rsp
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\OnlineShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\OnlineShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\OnlineShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\OnlineShop\bin\roslyn\Microsoft.Managed.Core.targets
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\OnlineShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\OnlineShop\bin\roslyn\System.AppContext.dll
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\OnlineShop\bin\roslyn\System.Collections.Immutable.dll
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\OnlineShop\bin\roslyn\System.Console.dll
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\OnlineShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\OnlineShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\OnlineShop\bin\roslyn\System.IO.Compression.dll
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\OnlineShop\bin\roslyn\System.IO.FileSystem.dll
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\OnlineShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\OnlineShop\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\OnlineShop\bin\roslyn\System.IO.Pipes.dll
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\OnlineShop\bin\roslyn\System.Reflection.Metadata.dll
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\OnlineShop\bin\roslyn\System.Security.AccessControl.dll
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\OnlineShop\bin\roslyn\System.Security.Claims.dll
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\OnlineShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\OnlineShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\OnlineShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\OnlineShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\OnlineShop\bin\roslyn\System.Security.Principal.Windows.dll
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\OnlineShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\OnlineShop\bin\roslyn\System.ValueTuple.dll
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\OnlineShop\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\OnlineShop\bin\roslyn\System.Xml.XmlDocument.dll
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\OnlineShop\bin\roslyn\System.Xml.XPath.dll
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\OnlineShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\OnlineShop\bin\roslyn\vbc.exe
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\OnlineShop\bin\roslyn\vbc.exe.config
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\OnlineShop\bin\roslyn\vbc.rsp
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\OnlineShop\bin\roslyn\VBCSCompiler.exe
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\OnlineShop\bin\roslyn\VBCSCompiler.exe.config
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\OnlineShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\OnlineShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csprojAssemblyReference.cache
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csproj.CoreCompileInputs.cache
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csproj.CopyComplete
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\OnlineShop\obj\Debug\OnlineShop.dll
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\OnlineShop\obj\Debug\OnlineShop.pdb
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\bin\OnlineShop.dll.config
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\bin\OnlineShop.dll
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\bin\OnlineShop.pdb
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\bin\roslyn\csc.exe
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\bin\roslyn\csc.exe.config
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\bin\roslyn\csc.rsp
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\bin\roslyn\csi.exe
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\bin\roslyn\csi.exe.config
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\bin\roslyn\csi.rsp
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\bin\roslyn\Microsoft.Managed.Core.targets
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\bin\roslyn\System.AppContext.dll
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\bin\roslyn\System.Collections.Immutable.dll
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\bin\roslyn\System.Console.dll
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\bin\roslyn\System.IO.Compression.dll
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\bin\roslyn\System.IO.FileSystem.dll
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\bin\roslyn\System.IO.Pipes.dll
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\bin\roslyn\System.Reflection.Metadata.dll
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\bin\roslyn\System.Security.AccessControl.dll
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\bin\roslyn\System.Security.Claims.dll
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\bin\roslyn\System.Security.Principal.Windows.dll
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\bin\roslyn\System.ValueTuple.dll
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\bin\roslyn\System.Xml.XmlDocument.dll
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\bin\roslyn\System.Xml.XPath.dll
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\bin\roslyn\vbc.exe
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\bin\roslyn\vbc.exe.config
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\bin\roslyn\vbc.rsp
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\bin\roslyn\VBCSCompiler.exe
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\bin\roslyn\VBCSCompiler.exe.config
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csprojAssemblyReference.cache
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csproj.CoreCompileInputs.cache
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\obj\Debug\OnlineShop.csproj.CopyComplete
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\obj\Debug\OnlineShop.dll
+E:\DTU\SUMMER 3\KTTMDT\GROUP\OnlineShop\OnlineShop\obj\Debug\OnlineShop.pdb

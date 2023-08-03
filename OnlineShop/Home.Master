@@ -1,0 +1,175 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Home.master.cs" Inherits="OnlineShop.Home" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>BoCosmestic</title>
+    <link href="/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="/css/font-awesome.min.css" rel="stylesheet" />
+    <link href="/css/prettyPhoto.css" rel="stylesheet" />
+    <link href="/css/price-range.css" rel="stylesheet" />
+    <link href="/css/animate.css" rel="stylesheet" />
+    <link href="css/main.css" rel="stylesheet" />
+    <link href="/css/responsive.css" rel="stylesheet" />
+    <link rel="shortcut icon" href="/images/ico/favicon.ico" />
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/images/ico/apple-touch-icon-144-precomposed.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/images/ico/apple-touch-icon-114-precomposed.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/images/ico/apple-touch-icon-72-precomposed.png" />
+    <link rel="apple-touch-icon-precomposed" href="/images/ico/apple-touch-icon-57-precomposed.png" />
+</head>
+<body>
+    <form id="frmHome" runat="server">
+        <div class="flex-home">
+            <header id="header">
+                <div class="header_top">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-sm-6">
+                                <div class="contactinfo">
+                                    <ul class="nav nav-pills">
+                                        <li><a href="#"><i class="fa fa-phone"></i>+84 123456789</a></li>
+                                        <li><a href="#"><i class="fa fa-envelope"></i>bocosmestic@gmail.com</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="col-sm-6">
+                                <div class="social-icons pull-right">
+                                    <ul class="nav navbar-nav">
+                                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="header-middle">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-sm-3">
+                                <div class="logo">
+                                    <a href="Defaut.aspx">
+                                        <img class="" src="/images/home/logo.jpg" alt="" /></a>
+                                    <p>Bo Cosmestic</p>
+                                </div>
+                            </div>
+                            <div class="col-sm-5">
+                                <div class="search_box">
+                                    <input type="text" placeholder="Tìm kiếm ..." />
+                                    <i class="fa fa-search"></i>
+                                </div>
+                            </div>
+                            <div class="col-sm-4">
+                                <div class="shop-menu pull-right">
+                                    <ul class="nav navbar-nav">
+                                        <li><a href="/DonHang.aspx"><i class="fa fa-star"></i>Đơn hàng</a></li>
+                                        <li><a href="/ShoppingCart.aspx?"><i class="fa fa-shopping-cart"></i>Giỏ hàng</a></li>
+                                        <li class="account"><a href="#"><i class="fa fa-user"></i>Tài khoản</a>
+                                            <div class="contact__menu">
+                                                <a href="#"><i class="fa fa-user"></i>Tài khoản</a>
+                                                <%if (isauth > 0)
+                                                {%>
+                                                <a href="/Login.aspx"><i class="fa fa-sign-out"></i>Đăng xuất</a>
+                                                <%}
+                                                else
+                                                { %>
+                                                <a href="/Login.aspx"><i class="fa fa-sign-in"></i>Đăng nhập</a>
+                                                <%} %>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="header-bottom">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-sm-12">
+                                <div class="navbar-header">
+                                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                                        <span class="sr-only">Toggle navigation</span>
+                                        <span class="icon-bar"></span>
+                                        <span class="icon-bar"></span>
+                                        <span class="icon-bar"></span>
+                                    </button>
+                                </div>
+                                <div class="mainmenu pull-left">
+                                    <ul class="nav navbar-nav collapse navbar-collapse">
+                                        <li><a href="/Defaut.aspx?id=<%= isauth%>" class="active">Trang chủ</a></li>
+                                        <li class="dropdown"><a href="#">Cửa hàng<i class="fa fa-angle-down"></i></a>
+                                            <ul role="menu" class="sub-menu">
+                                                <li><a href="/DonHang.aspx">Đơn hàng</a></li>
+                                                <li><a href="/ShoppingCart.aspx">Giỏ hàng</a></li>
+                                            </ul>
+                                        </li>
+                                        <li><a href="contact-us.html">Liên hệ</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </header>
+            <div class="main-home">
+                <asp:ContentPlaceHolder ID="phHome" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+            <footer id="footer">
+                <div class="footer-widget">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-sm-4">
+                                <div class="single-widget">
+                                    <h2>Dịch vụ</h2>
+                                    <ul class="nav nav-pills nav-stacked">
+                                        <li><a href="#">Hỗ trợ Online</a></li>
+                                        <li><a href="#">Liên Lạc</a></li>
+                                        <li><a href="#">Trạng thái đơn hàng</a></li>
+                                        <li><a href="#">Thay đổi địa chỉ</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+
+                            <div class="col-sm-2">
+                                <div class="single-widget">
+                                    <h2>Chính sách</h2>
+                                    <ul class="nav nav-pills nav-stacked">
+                                        <li><a href="#">Điều khoản sử dụng</a></li>
+                                        <li><a href="#">Chính sách bảo mật</a></li>
+                                        <li><a href="#">Hệ thống thanh toán</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="col-sm-2">
+                                <div class="single-widget">
+                                    <h2>Về cửa hàng</h2>
+                                    <ul class="nav nav-pills nav-stacked">
+                                        <li><a href="#">Thông tin công ty</a></li>
+                                        <li><a href="#">Địa chỉ cửa hàng</a></li>
+                                        <li><a href="#">Bản quyền</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </footer>
+        </div>
+
+
+    </form>
+    <script src="/js/jquery.js"></script>
+    <script src="/js/bootstrap.min.js"></script>
+    <script src="/js/jquery.scrollUp.min.js"></script>
+    <script src="/js/price-range.js"></script>
+    <script src="/js/jquery.prettyPhoto.js"></script>
+    <script src="/js/main.js"></script>
+</body>
+</html>
