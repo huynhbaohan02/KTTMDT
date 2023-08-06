@@ -52,9 +52,9 @@
 							<div class="brands-name">
 								<asp:DataList ID="DataList1" runat="server">
 									<ItemTemplate>
-										<asp:ImageButton ID="ImageButton1" runat="server" CommandArgument='<%# Eval("CateId") %>' ImageUrl='<%# Eval("Icon") %>' OnClick="ImageButton1_Click"/>
+										<asp:ImageButton ID="ImageButton1" runat="server" ImageUrl='<%# Eval("Icon") %>' />
 										<br/>
-										<asp:LinkButton CssClass="link_category" ID="link_category" runat="server" CommandArgument='<%# Eval("CateId") %>' Text='<%# Eval("CateName")%>' OnClick="link_category_Click"></asp:LinkButton>
+										<asp:LinkButton CssClass="link_category" ID="link_category" runat="server"  Text='<%# Eval("CateName")%>' ></asp:LinkButton>
 									</ItemTemplate>
 								</asp:DataList>
 							</div>

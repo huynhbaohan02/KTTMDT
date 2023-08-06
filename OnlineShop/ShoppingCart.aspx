@@ -46,7 +46,7 @@
 						</asp:TemplateField>
 						<asp:TemplateField HeaderText="" ShowHeader="False">
 							<ItemTemplate>
-								<asp:LinkButton ID="lbDelete" runat="server" OnClientClick="return confirm('Bạn muốn xóa sản phẩm này khỏi giỏ hàng?')" CausesValidation="False" CommandName="Delete" Text="Xóa"></asp:LinkButton>
+								<asp:LinkButton ID="lbDelete" runat="server" OnClientClick="return confirm('Bạn muốn xóa sản phẩm này khỏi giỏ hàng?')"  CausesValidation="False" CommandName="Delete" Text="Xóa"></asp:LinkButton>
 							</ItemTemplate>
 						</asp:TemplateField>
 					</Columns>

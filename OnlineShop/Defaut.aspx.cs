@@ -38,11 +38,6 @@ namespace OnlineShop
 			getProduct();
 		}
 
-		protected void link_category_Click(object sender, EventArgs e)
-		{
-			maloai = ((LinkButton)sender).CommandArgument;
-			getProduct();
-		}
 		protected void getProduct()
 		{
 			string sql3;
@@ -63,10 +58,6 @@ namespace OnlineShop
 			}
 		}
 
-		protected void ImageButton1_Click(object sender, ImageClickEventArgs e)
-		{
-			maloai = ((ImageButton)sender).CommandArgument;
-			getProduct();
-		}
+		
 	}
 }

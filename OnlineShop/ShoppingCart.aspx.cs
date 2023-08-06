@@ -163,6 +163,7 @@ namespace OnlineShop
 			loadData();
 			setMoney();
 		}
+
 		
 	}
 }
