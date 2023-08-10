@@ -6,7 +6,7 @@
 					<div class="product-details">
 						<div class="col-sm-5">
 							<div class="view-product">
-								<img src="<%= product.ImagePath %>" alt="">
+								<img class="img-detail" src="<%= product.ImagePath %>" alt="">
 							</div>
 						</div>
 						<div class="col-sm-7">
@@ -23,7 +23,7 @@
 								</span>
 								<p><b>Đã bán:</b></p>
 								<p><b>Tình trạng:</b> Mới</p>
-								<p><b>Thương hiệu:</b> Shop Online</p>
+								<p><b>Thương hiệu:</b>Bo Cosmestic</p>
 								<p><b>Thông tin sản phẩm :</b></p>
 								<p><%=product.Introduction %></p>
 							</div>

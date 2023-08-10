@@ -13,7 +13,7 @@
 			<asp:GridView ID="listUser" runat="server" AutoGenerateColumns="False" CellPadding="4" ForeColor="#333333" GridLines="None" OnRowDeleting="listUser_RowDeleting">
 				<AlternatingRowStyle BackColor="White" />
 				<Columns>
-					<asp:TemplateField HeaderText="Id Người Dùng">
+					<asp:TemplateField HeaderText="ID">
 						<ItemTemplate>
 							<asp:Label ID="iduser" runat="server" Text='<%# Eval("UserId") %>'></asp:Label>
 						</ItemTemplate>
@@ -46,14 +46,14 @@
 							<asp:Label ID="Label5" runat="server" Text='<%# Eval("Status") %>'></asp:Label>
 						</ItemTemplate>
 					</asp:TemplateField>
-					<asp:TemplateField HeaderText="Sửa">
+					<asp:TemplateField >
 						<ItemTemplate>
-							<asp:LinkButton ID="LinkButton1" runat="server" CommandArgument='<%# Eval("UserId") %>' onClick="LinkButton1_Click">Sửa</asp:LinkButton>
+							<asp:LinkButton CssClass="btn-user" ID="LinkButton1" runat="server" CommandArgument='<%# Eval("UserId") %>' onClick="LinkButton1_Click">Sửa</asp:LinkButton>
 						</ItemTemplate>
 					</asp:TemplateField>
 					<asp:TemplateField HeaderText="" ShowHeader="False">
 							<ItemTemplate>
-								<asp:LinkButton ID="lbDelete" runat="server" OnClientClick="return confirm('Bạn muốn xóa người dùng này?')" CausesValidation="False" CommandName="Delete" Text="Delete"></asp:LinkButton>
+								<asp:LinkButton CssClass="btn-user" ID="lbDelete" runat="server" OnClientClick="return confirm('Bạn muốn xóa người dùng này?')" CausesValidation="False" CommandName="Delete" Text="Delete"></asp:LinkButton>
 							</ItemTemplate>
 						</asp:TemplateField>
 				</Columns>

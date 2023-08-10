@@ -83,7 +83,6 @@
     <Content Include="css\prettyPhoto.css" />
     <Content Include="css\price-range.css" />
     <Content Include="css\responsive.css" />
-    <Content Include="css\root.css" />
     <Content Include="Defaut.aspx" />
     <Content Include="DetailProduct.aspx" />
     <Content Include="DonHang.aspx" />

@@ -6,7 +6,7 @@
 		<asp:GridView ID="ListDonHang" runat="server" AutoGenerateColumns="False" CellPadding="4" ForeColor="#333333" GridLines="None">
 			<AlternatingRowStyle BackColor="White" />
 			<Columns>
-				<asp:TemplateField HeaderText="Id Đơn Hàng">
+				<asp:TemplateField HeaderText="ID">
 					<ItemTemplate>
 						<asp:Label ID="Label1" runat="server" Text='<%# Eval("OrderId") %>'></asp:Label>
 					</ItemTemplate>
@@ -51,9 +51,9 @@
 						<asp:Label ID="Label8" runat="server" Text='<%# Eval("OrderDate") %>'></asp:Label>
 					</ItemTemplate>
 				</asp:TemplateField>
-				<asp:TemplateField HeaderText="Sửa">
+				<asp:TemplateField >
 					<ItemTemplate>
-						<asp:LinkButton ID="suaDonHang" runat="server" CommandArgument='<%# Eval("OrderId") %>' OnClick="suaDonHang_Click">Sửa</asp:LinkButton>
+						<asp:LinkButton CssClass="btn-user" ID="suaDonHang" runat="server" CommandArgument='<%# Eval("OrderId") %>' OnClick="suaDonHang_Click">Sửa</asp:LinkButton>
 					</ItemTemplate>
 				</asp:TemplateField>
 			</Columns>

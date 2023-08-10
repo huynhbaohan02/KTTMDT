@@ -57,7 +57,16 @@ namespace OnlineShop
 					dr["ImagePath"] + "", int.Parse(dr["Bought"] + ""), long.Parse(dr["Price"] + ""), int.Parse(dr["ProductId"] + "")));
 			}
 		}
+        protected void ImageButton1_Click(object sender, ImageClickEventArgs e)
+        {
+            maloai = ((ImageButton)sender).CommandArgument;
+            getProduct();
+        }
+        protected void link_category_Click(object sender, EventArgs e)
+        {
+            maloai = ((LinkButton)sender).CommandArgument;
+            getProduct();
+        }
 
-		
-	}
+    }
 }

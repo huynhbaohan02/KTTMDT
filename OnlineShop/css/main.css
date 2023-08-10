@@ -1100,8 +1100,9 @@ h2.title {
     text-align: center;
     width: 100%;
 }
-.link_category {
+#link_category {
     color: #E48586;
+    
 }
 
 .product-overlay .add-to-cart {
@@ -1364,8 +1365,9 @@ h2.title {
 
     .view-product img {
         border: 1px solid #F7F7F0;
-        height: 380px;
+        height: 400px;
         width: 100%;
+        object-fit: cover;
     }
 
     .view-product h3 {
@@ -2948,4 +2950,11 @@ h2.title {
 
 .list-item{
     width:28%;
+}
+
+.cate-link {
+    color: #E48586;
+    margin-left:20px;
+    text-transform:uppercase;
+    font-weight:700;
 }

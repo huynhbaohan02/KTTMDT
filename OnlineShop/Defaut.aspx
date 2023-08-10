@@ -18,7 +18,7 @@
 								<div class="col-sm-6">
 									<h1>Bo Cosmestic</h1>
 									<p>Mua sắm trực tuyến hàng triệu sản phẩm ở nhiều hãng mỹ phẩm nỗi tiếng. Giá siêu hời và nhiều ưu đãi. Mua và bán online nhanh chóng trong 30 giây.</p>
-									<button type="button" class="btn btn-default get">Get it now</button>
+									<button type="button" class="btn btn-default get">Mua Ngay</button>
 								</div>
 								<div class="col-sm-6">
 									<img src="<%= arrList[i].ImagePath1 %>" class="girl img-responsive" alt="" />
@@ -52,9 +52,9 @@
 							<div class="brands-name">
 								<asp:DataList ID="DataList1" runat="server">
 									<ItemTemplate>
-										<asp:ImageButton ID="ImageButton1" runat="server" ImageUrl='<%# Eval("Icon") %>' />
-										<br/>
-										<asp:LinkButton CssClass="link_category" ID="link_category" runat="server"  Text='<%# Eval("CateName")%>' ></asp:LinkButton>
+										<asp:ImageButton ID="ImageButton1" runat="server" CommandArgument='<%# Eval("CateId") %>' ImageUrl='<%# Eval("Icon") %>' OnClick="ImageButton1_Click"/>
+										<br />
+										<asp:LinkButton CssClass="cate-link" ID="link_category" runat="server" CommandArgument='<%# Eval("CateId") %>' Text='<%# Eval("CateName")%>' OnClick="link_category_Click"></asp:LinkButton>
 									</ItemTemplate>
 								</asp:DataList>
 							</div>
