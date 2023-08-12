@@ -53,7 +53,7 @@ namespace OnlineShop
 						int id = int.Parse(cmd3.ExecuteScalar() + "");
 						//Const.Isauth = id;
 						Session["idUser"] = id;
-						Response.Redirect("Defaut.aspx");
+						Response.Redirect("Login.aspx");
 					}
 					else
 					{

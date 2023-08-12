@@ -73,8 +73,6 @@
     <Content Include="App_Data\shop_log.ldf">
       <DependentUpon>shop.mdf</DependentUpon>
     </Content>
-    <Content Include="bin\OnlineShop.dll" />
-    <Content Include="bin\OnlineShop.pdb" />
     <Content Include="Checkout.aspx" />
     <Content Include="css\animate.css" />
     <Content Include="css\bootstrap.min.css" />

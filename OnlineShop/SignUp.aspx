@@ -18,7 +18,15 @@
                             </div>
                             <div class="item">
                                 <p>Mật Khẩu</p>
-                                <asp:TextBox ID="password" runat="server" TextMode="SingleLine"></asp:TextBox>
+                                <asp:TextBox ID="password" runat="server" TextMode="Password"></asp:TextBox>
+                                <asp:RequiredFieldValidator ID="RequiredFieldValidator1" runat="server" ErrorMessage="Mật khẩu phải được nhập"
+                                    ControlToValidate="password" ForeColor="Red" Display="Dynamic"></asp:RequiredFieldValidator>
+                            </div>
+                            <div class="item">
+                                <p>Nhập Lại Mật Khẩu</p>
+                                <asp:TextBox ID="password2" runat="server" TextMode="Password"></asp:TextBox>
+                                <asp:CompareValidator ID="CompareValidator1" runat="server" ErrorMessage="Mật khẩu nhập lại không trùng khớp"
+                                    ControlToValidate="password2" ControlToCompare="password" ForeColor="Red" Display="Dynamic"></asp:CompareValidator>
                             </div>
                             <div class="login">
                                 <span>Bạn chưa có tài khoản?</span>
@@ -32,7 +40,7 @@
                     </div>
                 </div>
                 <div class="col-lg-5 col-sm-12 col-md-12">
-                     <asp:Image ID="Image1" runat="server" ImageUrl="~/images/shop/register.jpg" CssClass="register-img" />
+                    <asp:Image ID="Image1" runat="server" ImageUrl="~/images/shop/register.jpg" CssClass="register-img" />
                 </div>
             </div>
         </div>
